@@ -1,0 +1,14 @@
+{
+  "name": "csxhshop",
+  "version": "1.0.0",
+  "main": "start.js",
+  "repository": "git@github.com:MrZhangZc/chwshop.git",
+  "author": "zzc",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "koa": "^2.5.0"
+  }
+}
